@@ -12,7 +12,7 @@ Homer Wang, TinyFish's Head of Product, put it like this at HumanX 2026:
 
 ([source](https://workos.com/blog/homer-wang-tinyfish-ai-agents))
 
-That line is the whole design. The web is a big, hostile sea: CAPTCHAs, paywalls, pop-ups, rate limits. Crawlers built like ships run aground. A TinyFish agent is the native creature of that sea, so it swims straight through and comes back with the data.
+The design is inspired by it. The web is a big, hostile sea: CAPTCHAs, paywalls, pop-ups, rate limits. Crawlers built like ships run aground. A TinyFish agent is the native creature of that sea, so it swims straight through and comes back with the data.
 
 ## Front
 
@@ -65,7 +65,7 @@ DTG prints everything as is. A 2-screen print needs halftones for the light coas
 
 ## Notes
 
-* This is a merch design. The challenge says no TinyFish endpoint usage is required. TinyFish is the subject: the route stops are its real products.
+* This is a merch design. The challenge says no TinyFish endpoint usage is required. TinyFish is the subject.
 * The chart's place names are jokes, not real places.
 * The TinyFish name is used as the challenge rules allow. Swap the plain "TINYFISH" text for the official logo before production.
 
